@@ -1,0 +1,3 @@
+Akvaryumdaki balıkları yemleyen, suyun seviyesini ölçen (küçük tasarladığım devre ile) ve suyun sıcaklığını ölçen bu sistemde verileri anlık kullanıcının telefonuna yansıyabiliyor. Kullanıcının telefonundan yönettiği arduino ve android haberleşmesini sağlayan sistem.
+
+In this system, which feeds the fish in the aquarium, measures the water level (with a small circuit that I designed) and measures the temperature of the water, the data can be reflected on the user's phone instantly. The system that enables arduino and android communication managed from the user's phone.
